@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.wrapper-space{
+      margin-top: 80px; 
+     /* height: calc(100vh - 80px - 50px) !important; */
+}
+/* @import "~bootstrap-icons/font/bootstrap-icons.css"; */
